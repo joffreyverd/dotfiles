@@ -1,0 +1,30 @@
+# brew bundle --file ~/src/dotfiles/brew/Brewfile
+
+# CLI apps
+brew "docker"
+brew "fish"
+brew "gnupg"
+brew "mas"
+brew "node"
+brew "pinentry"
+brew "starship"
+
+# cask
+cask "1password"
+cask "appcleaner"
+cask "binance"
+cask "cyberduck"
+cask "docker"
+cask "firefox"
+cask "gpg-suite"
+cask "insomnia"
+cask "iterm2"
+cask "ledger-live"
+cask "mamp"
+cask "signal"
+cask "spectacle"
+cask "spotify"
+cask "tableplus"
+cask "tradingview"
+cask "visual-studio-code"
+cask "vlc"
