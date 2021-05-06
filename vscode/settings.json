@@ -29,5 +29,6 @@
     "editor.cursorBlinking": "expand",
     "workbench.statusBar.visible": false,
     "editor.fontLigatures": null,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "extensions.ignoreRecommendations": true
 }
