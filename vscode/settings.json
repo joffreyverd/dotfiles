@@ -2,7 +2,6 @@
 
 {
     "breadcrumbs.enabled": false,
-    "window.zoomLevel": 1,
     "json.schemas": [],
     "files.insertFinalNewline": true,
 
@@ -29,5 +28,8 @@
     "editor.cursorBlinking": "expand",
     "editor.fontLigatures": null,
     "workbench.startupEditor": "none",
-    "extensions.ignoreRecommendations": true
+    "extensions.ignoreRecommendations": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 1
 }
