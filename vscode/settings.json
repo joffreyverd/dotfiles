@@ -32,5 +32,6 @@
     "typescript.updateImportsOnFileMove.enabled": "always",
     "editor.formatOnSave": true,
     "window.zoomLevel": 1,
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "outline.showVariables": false
 }
