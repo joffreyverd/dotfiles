@@ -2,6 +2,9 @@
 
 # CLI apps
 brew "docker"
+brew "kubernetes"
+brew "skaffold"
+brew "heroku"
 brew "fish"
 brew "gnupg"
 brew "mas"
