@@ -33,5 +33,6 @@
     "editor.formatOnSave": true,
     "window.zoomLevel": 1,
     "security.workspace.trust.untrustedFiles": "open",
-    "outline.showVariables": false
+    "outline.showVariables": false,
+    "files.trimTrailingWhitespace": true
 }
