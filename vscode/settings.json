@@ -1,38 +1,36 @@
 // /Users/joffreyverd/Library/Application\ Support/Code/User/settings.json
-
 {
-    "breadcrumbs.enabled": false,
-    "json.schemas": [],
-    "files.insertFinalNewline": true,
-
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "editor.wordWrap": "off",
-    "workbench.activityBar.visible": true,
-    "files.autoSave": "onWindowChange",
-
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "One Dark Pro",
-    "editor.fontFamily": "'Fira Code'",
-
-    "git.confirmSync": false,
-    "git.autofetch": true,
-
-    "eslint.alwaysShowStatus": true,
-
-    "editor.minimap.enabled": false,
-    "editor.codeActionsOnSave": {
-        "source.fixAll": true
-    },
-
-    "telemetry.enableTelemetry": false,
-    "editor.cursorBlinking": "expand",
-    "editor.fontLigatures": null,
-    "workbench.startupEditor": "none",
-    "extensions.ignoreRecommendations": true,
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "editor.formatOnSave": true,
-    "window.zoomLevel": 1,
-    "security.workspace.trust.untrustedFiles": "open",
-    "outline.showVariables": false,
-    "files.trimTrailingWhitespace": true
+  "breadcrumbs.enabled": false,
+  "json.schemas": [],
+  "files.insertFinalNewline": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "off",
+  "workbench.activityBar.visible": true,
+  "files.autoSave": "onWindowChange",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.fontFamily": "'Fira Code'",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "eslint.alwaysShowStatus": true,
+  "editor.minimap.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "telemetry.enableTelemetry": false,
+  "editor.cursorBlinking": "expand",
+  "editor.fontLigatures": null,
+  "workbench.startupEditor": "none",
+  "extensions.ignoreRecommendations": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "outline.showVariables": false,
+  "files.trimTrailingWhitespace": true,
+  "eslint.run": "onSave",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.productIconTheme": "material-product-icons",
+  "powermode.presets": "exploding-rift",
+  "eslint.format.enable": true,
+  "window.zoomLevel": 1
 }
