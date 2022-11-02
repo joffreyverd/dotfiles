@@ -2,12 +2,12 @@
 
 # Disable the package module, hiding it from the prompt completely
 [nodejs]
-disabled = true
+disabled = false
 [php]
 disabled = true
 
 [git_branch]
-symbol = "🌱 "
+symbol = "🌱"
 
 [git_status]
 conflicted = " 🏳 "
@@ -20,9 +20,3 @@ modified = " 📝 "
 staged = '[++\($count\)](green) '
 renamed = " 👅 "
 deleted = " 🗑 "
-
-[time]
-disabled = false
-format = '🕙 [\[ $time \]]($style) '
-time_format = "%T"
-utc_time_offset = "-5"

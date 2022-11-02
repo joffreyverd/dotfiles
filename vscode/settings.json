@@ -17,9 +17,8 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "telemetry.enableTelemetry": false,
   "editor.cursorBlinking": "expand",
-  "editor.fontLigatures": null,
+  "editor.fontLigatures": true,
   "workbench.startupEditor": "none",
   "extensions.ignoreRecommendations": true,
   "typescript.updateImportsOnFileMove.enabled": "always",
@@ -32,5 +31,23 @@
   "workbench.productIconTheme": "material-product-icons",
   "powermode.presets": "exploding-rift",
   "eslint.format.enable": true,
-  "window.zoomLevel": 1
+  "eslint.workingDirectories": [],
+  "editor.tabSize": 2,
+  "githubPullRequests.pullBranch": "never",
+  "git.ignoreRebaseWarning": true,
+  "vscode-pets.petSize": "large",
+  "vscode-pets.position": "explorer",
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.advanced": {},
+  "prettier.configPath": ".prettierrc",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "window.zoomLevel": 3
 }
