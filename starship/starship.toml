@@ -3,11 +3,14 @@
 # Disable the package module, hiding it from the prompt completely
 [nodejs]
 disabled = false
+symbol = "🤖 "
+format = "[$symbol($version)]($style)"
+
 [php]
 disabled = true
 
 [git_branch]
-symbol = "🌱"
+symbol = "🌱 "
 
 [git_status]
 conflicted = " 🏳 "
