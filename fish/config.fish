@@ -5,6 +5,7 @@ set -gx PATH /opt/homebrew/bin $PATH
 
 # GENERAL
 source $FLINE_PATH/init.fish
+set -g fish_greeting ''
 
 # STARSHIP
 starship init fish | source
