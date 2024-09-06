@@ -12,5 +12,5 @@ starship init fish | source
 # GPG
 set -x GPG_TTY (tty)
 
-# DM
-set -x HOST_IP (ifconfig en0 | grep 'inet ' | cut -f 2 -d ' ')
+# Ruby
+set -x PATH $HOME/.rvm/bin $PATH

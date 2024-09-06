@@ -42,5 +42,9 @@
     "plaintext": false,
     "markdown": false
   },
-  "window.zoomLevel": 2
+  "jest.debugMode": true,
+  "jest.showCoverageOnLoad": true,
+  "jest.autoRevealOutput": "off",
+  "window.zoomLevel": 1,
+  "eslint.codeActionsOnSave.rules": null
 }
